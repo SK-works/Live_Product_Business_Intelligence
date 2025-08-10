@@ -1,8 +1,10 @@
-### Live Product Intelligence Dashboard for E-commerce
+# Live Product Intelligence Dashboard for E-commerce
+
 This project simulates the role of a Business Intelligence (BI) analyst at an e-commerce company. It builds a complete BI system that collects live product data, stores it in a database, predicts prices using machine learning, and visualizes key insights with interactive dashboards.
 
 
 ## Project Overview
+
 The goal of this project is to demonstrate end-to-end capabilities in building a data-driven BI system similar to what large e-commerce companies like Amazon or Flipkart use to:
 - Track product trends and performance in real-time  
 - Analyze pricing and demand patterns  
@@ -50,6 +52,7 @@ The goal of this project is to demonstrate end-to-end capabilities in building a
 
 
 ## Learning Outcomes
+
 - End-to-end BI system design and implementation
 - Working with live APIs to collect real-time data
 - SQL database creation, management, and querying
@@ -59,7 +62,8 @@ The goal of this project is to demonstrate end-to-end capabilities in building a
 - Automating workflows and connecting cloud services
 
 
-##Project Structure##
+## Project Structure
+
 Google Colab notebooks: Python scripts for data fetching, processing, modeling, and visualization.
 PostgreSQL database: Tables storing raw product data and model predictions.
 Metabase dashboards: Interactive dashboards built on top of the database for business insights.

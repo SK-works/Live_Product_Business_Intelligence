@@ -1,4 +1,4 @@
-# Live Product Intelligence Dashboard for E-commerce
+# Live Product Intelligence for E-commerce
 
 This project simulates the role of a Business Intelligence (BI) analyst at an e-commerce company. It builds a complete BI system that collects live product data, stores it in a database, predicts prices using machine learning, and visualizes key insights with interactive dashboards.
 

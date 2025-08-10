@@ -72,8 +72,3 @@ This end-to-end BI system integrates data ingestion, processing, predictive mode
 - **PostgreSQL database:** Central data warehouse storing raw and processed data along with prediction results.  
 - **Metabase dashboards:** Custom BI dashboards delivering rich insights from the data in real-time.
 
-
-## Metabase Dashboard
-
-Explore the live interactive dashboards here: [View Dashboard](http://localhost:3000/dashboard/2-live-product-intelligence)
-
